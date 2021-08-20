@@ -1,11 +1,15 @@
 h1,h2,h3,h4,h5,h6{
     color: cadetblue;
+    font-family: 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', 'Monaco', Courier, monospace;
 }
 /*li{*/
 /*    color: aqua;*/
 /*}*/
 p{
     color: rgb(40,60,80);
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
 }
 body{
     background-color: aliceblue;
@@ -15,9 +19,11 @@ span{
 }
 .divsection{
     background-color: antiquewhite;
+
 }
 #linkedin{
     background: bisque 2px round;
+    font-family: 'Pacifico', cursive;
 }
 #outerpara{
     text-emphasis-color: aqua;
