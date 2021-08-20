@@ -1,23 +1,24 @@
-h1{
+h1,h2,h3,h4,h5,h6{
     color: cadetblue;
 }
-
-h2{
-    color: chocolate;
-}
-
-h3{
-    color: bisque;
-}
-
-h4{
-    color: chartreuse;
-}
-
-li{
-    color: aqua;
-}
-
+/*li{*/
+/*    color: aqua;*/
+/*}*/
 p{
     color: rgb(40,60,80);
+}
+body{
+    background-color: aliceblue;
+}
+span{
+    background-color: cornsilk;
+}
+.divsection{
+    background-color: antiquewhite;
+}
+#linkedin{
+    background: bisque 2px round;
+}
+#outerpara{
+    text-emphasis-color: aqua;
 }
